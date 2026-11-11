@@ -1,5 +1,5 @@
 # CloudClock
-Часы ожидания, как на Iphone, но на Android, в стиле material design 3.
+Часы ожидания, как на Iphone, но на Android и windows, в стиле material design 3.
 <img width="1835" height="877" alt="изображение" src="https://github.com/user-attachments/assets/628ff012-9da7-4043-8ec0-a16e7883636d" />
 
 Представляем вам CloudClock (я постоянно называю "клауд кок"), Вдохновляясь часами ожидания, я решил навайбкодить часы ожидания, чтобы было удоюно смотреть время во время вайбкода или игры.
